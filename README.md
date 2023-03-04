@@ -48,8 +48,6 @@ https://priskinzsuzsanna.github.io/React-result-summary-component/
  - Using React for easy layouts
  - import svg-s and pass them as props for img src-s
  - branch main:  using props
- - branch json: fetching data from json server, useEffect, useState 
-
 
 ## Author
 
