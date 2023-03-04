@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/PriskinZsuzsanna.github.io/React-result-summary-component/static/css/main.ce73474b.css",
-    "main.js": "/PriskinZsuzsanna.github.io/React-result-summary-component/static/js/main.f52a7909.js",
-    "index.html": "/PriskinZsuzsanna.github.io/React-result-summary-component/index.html",
-    "static/media/icon-memory.svg": "/PriskinZsuzsanna.github.io/React-result-summary-component/static/media/icon-memory.22a9e0501e58960f3c349cd96fcf108f.svg",
-    "static/media/icon-visual.svg": "/PriskinZsuzsanna.github.io/React-result-summary-component/static/media/icon-visual.61fc2697d5094b6e396276b1a1597c86.svg",
-    "static/media/icon-verbal.svg": "/PriskinZsuzsanna.github.io/React-result-summary-component/static/media/icon-verbal.cc1204a0b0559da591a3ea6e99c5cf50.svg",
-    "static/media/icon-reaction.svg": "/PriskinZsuzsanna.github.io/React-result-summary-component/static/media/icon-reaction.0c1d6b98b4559ba72276d9ceda14692d.svg",
-    "main.ce73474b.css.map": "/PriskinZsuzsanna.github.io/React-result-summary-component/static/css/main.ce73474b.css.map",
-    "main.f52a7909.js.map": "/PriskinZsuzsanna.github.io/React-result-summary-component/static/js/main.f52a7909.js.map"
+    "main.css": "/http//PriskinZsuzsanna.github.io/React-result-summary-component/static/css/main.ce73474b.css",
+    "main.js": "/http//PriskinZsuzsanna.github.io/React-result-summary-component/static/js/main.f74e7970.js",
+    "index.html": "/http//PriskinZsuzsanna.github.io/React-result-summary-component/index.html",
+    "static/media/icon-memory.svg": "/http//PriskinZsuzsanna.github.io/React-result-summary-component/static/media/icon-memory.22a9e0501e58960f3c349cd96fcf108f.svg",
+    "static/media/icon-visual.svg": "/http//PriskinZsuzsanna.github.io/React-result-summary-component/static/media/icon-visual.61fc2697d5094b6e396276b1a1597c86.svg",
+    "static/media/icon-verbal.svg": "/http//PriskinZsuzsanna.github.io/React-result-summary-component/static/media/icon-verbal.cc1204a0b0559da591a3ea6e99c5cf50.svg",
+    "static/media/icon-reaction.svg": "/http//PriskinZsuzsanna.github.io/React-result-summary-component/static/media/icon-reaction.0c1d6b98b4559ba72276d9ceda14692d.svg",
+    "main.ce73474b.css.map": "/http//PriskinZsuzsanna.github.io/React-result-summary-component/static/css/main.ce73474b.css.map",
+    "main.f74e7970.js.map": "/http//PriskinZsuzsanna.github.io/React-result-summary-component/static/js/main.f74e7970.js.map"
   },
   "entrypoints": [
     "static/css/main.ce73474b.css",
-    "static/js/main.f52a7909.js"
+    "static/js/main.f74e7970.js"
   ]
 }
