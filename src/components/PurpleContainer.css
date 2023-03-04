@@ -1,0 +1,50 @@
+.purple-container {
+    height: 40vh;
+    background: linear-gradient(var(--light-slate-blue-background-gradinet), var( --light-royal-blue-background-gradinet));
+    border-radius: 0 0 30px 30px;
+    text-align: center;
+    padding: 30px 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.purple-container h1 {
+    font-size: 50px;
+    color: var(--white);
+}
+
+.purple-container h2 {
+    font-size: 32px;
+    color: var(--white);
+}
+
+.purple-container h3 {
+    color: var(--light-lavender)
+}
+
+.purple-container h4, p {
+    color: var(--light-lavender-alpha)
+}
+
+.circle {
+    margin: 20px auto;
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    background: linear-gradient(var(--violet-blue-circle-gradinet), var(--persian-blue-circle-gradinet));
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/*--------------------------------*/
+
+@media screen and (min-width: 700px){
+    .purple-container {
+        height: 100%;
+        border-radius: 30px;
+    }
+}

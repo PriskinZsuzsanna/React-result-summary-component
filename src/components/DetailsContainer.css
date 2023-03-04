@@ -1,0 +1,54 @@
+.details-box {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px;
+    border-radius: 10px;
+}
+
+.flex-left {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 15px
+    
+}
+.flex-right {
+    width: 30%;
+    text-align: right;
+}
+
+#Reaction {
+    background: var(--light-red-a);
+    color: var(--light-red);
+}
+
+#Memory {
+    background: var(--orange-yellow-a);
+    color: var(--orange-yellow);
+}
+
+#Verbal {
+    background: var(--green-teal-a);
+    color: var(--green-teal);
+}
+
+#Visual {
+    background: var(--cobalt-blue-a);
+    color: var(--cobalt-blue);
+}
+
+.score {
+    color: var(--dark-gray-blue)
+}
+
+span {
+    color: var(--dark-gray-blue-a)
+}
+
+@media screen  and(min-width:700px){
+    .details-box {
+        padding: 20px;
+    }
+}

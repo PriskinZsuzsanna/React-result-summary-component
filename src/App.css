@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500;700;800&display=swap');
+
+:root {
+    --light-red: hsla(0, 100%, 67%);
+    --light-red-a: hsla(0, 100%, 67%, 0.08);
+    --orange-yellow: hsl(39, 100%, 56%);
+    --orange-yellow-a: hsl(39, 100%, 56%, 0.08);
+    --green-teal: hsl(166, 100%, 37%);
+    --green-teal-a: hsl(166, 100%, 37%, 0.08);
+    --cobalt-blue: hsl(234, 85%, 45%);
+    --cobalt-blue-a: hsl(234, 85%, 45%, 0.08);
+
+    --white: hsl(0, 0%, 100%);
+    --pale-blue: hsl(221, 100%, 96%);
+    --light-lavender: hsl(241, 100%, 89%);
+    --light-lavender-alpha: hsla(241, 100%, 89%, 0.545);
+    --dark-gray-blue: hsl(224, 30%, 27%);
+    --dark-gray-blue-a: hsla(224, 30%, 27%, 0.618);
+
+    --light-slate-blue-background-gradinet: hsl(252, 100%, 67%);
+    --light-royal-blue-background-gradinet: hsl(241, 81%, 54%);
+    --violet-blue-circle-gradinet: hsla(256, 72%, 46%, 1);
+    --persian-blue-circle-gradinet: hsla(241, 72%, 46%, 0);
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Hanken Grotesk', sans-serif;
+}
+
+body {
+    min-height: 100vh;
+    width: 100%;
+    background: var(--white);
+    font-size: .8rem;
+}
+
+.container {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.white-container {
+    width: 90%;
+    margin-inline: auto;
+    margin-block: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-around;
+    gap: 20px;
+    padding: 20px 10px;
+}
+
+.white-container h3 {
+    font-size: 26px;
+}
+
+.details-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    padding-block: 5px;
+}
+
+/*---------------------------------------*/
+
+@media screen and (min-width: 700px){
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 1rem;
+    }
+
+    .container {
+        width: 90%;
+        min-height: auto;
+        margin-inline: auto;
+        max-width: 700px;
+        max-height: 600px;
+        flex-direction: row;
+        box-shadow: 1px 1px 20px var(--cobalt-blue-a);
+        border-radius: 30px;
+    }
+
+    .white-container {
+        padding: 30px;
+        min-height: auto;
+    }
+}
