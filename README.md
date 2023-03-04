@@ -30,6 +30,7 @@ Users should be able to:
 ![Screenshot suumary1](https://user-images.githubusercontent.com/121173949/220408837-e9aa248f-0849-4efd-8035-8655af104a51.png)
 
 ### Links
+https://priskinzsuzsanna.github.io/React-result-summary-component/
 
 
 
